@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "886148683009",
+    "project_id": "boteapp-dedaf",
+    "storage_bucket": "boteapp-dedaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886148683009:android:a15fab2ee53086ae0a7700",
+        "android_client_info": {
+          "package_name": "com.botelatam.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886148683009-eggoui1e70cfgmm2obsp3bcum9fdru2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.botelatam.app",
+            "certificate_hash": "e69fc5e669bdc63282ee83f1b43486a63f7c0647"
+          }
+        },
+        {
+          "client_id": "886148683009-sdg9gcvjo5bii952c53ebdhjveauomcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsCdbHUc3N2fru606mwaHQrxuxeTz73WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886148683009-sdg9gcvjo5bii952c53ebdhjveauomcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
